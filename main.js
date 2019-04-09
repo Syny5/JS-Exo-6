@@ -1,5 +1,5 @@
 function formulaire(){
-  var nbr1 = firstNumber.value
-  var nbr2 = secondNumber.value
-  alert(nbr1 % nbr2)
+  let nbr1 = firstNumber.value;
+  let nbr2 = secondNumber.value;
+  alert(nbr1 % nbr2);
 }
